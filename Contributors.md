@@ -30,6 +30,7 @@ Ayush Gaud
 - [MarioCapodanno](https://github.com/MarioCapodanno)
 - [Derek Kim](https://github.com/derekhskim)
 Gabi Nelepcu
+- [Robin Carey] (https://github.com/robincarey)
 - [amin2ace] (https://github.com/amin2ace/)
 - [Vikram Shetty] (https://github.com/vikram71198)
 - [Hexstars] (https://github.com/Hexstars)
